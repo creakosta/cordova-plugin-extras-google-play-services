@@ -28,6 +28,6 @@
 --> 
     <framework src="com.google.android.gms:play-services-games:16.+" />
     <framework src="com.google.android.gms:play-services-plus:16.+" />
-    <framework src="com.google.android.gms:play-services-ads:11.4.0" />
+    <framework src="com.google.android.gms:play-services-ads:15.0.1" />
   </platform>
 </plugin>
